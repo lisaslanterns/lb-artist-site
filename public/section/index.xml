@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Lisa Brzozowski</title>
+    <link>http://lisabrzozowski.com/section/</link>
+    <description>Recent content in Sections on Lisa Brzozowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 May 2015 16:10:08 -0700</lastBuildDate>
+    <atom:link href="http://lisabrzozowski.com/section/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>submission complete</title>
+      <link>http://lisabrzozowski.com/section/submission-complete/</link>
+      <pubDate>Fri, 08 May 2015 16:10:08 -0700</pubDate>
+      
+      <guid>http://lisabrzozowski.com/section/submission-complete/</guid>
+      <description>
+
+&lt;p&gt;&lt;style&gt;button { margin-left: auto; margin-right:auto; background: #808080; color: #ccc; padding: 15px; }&lt;/style&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;submission-success:d9bc52b161805e114bde241018fa7d69&#34;&gt;Submission Success&lt;/h1&gt;
+
+&lt;p&gt;&lt;p class=&#34;center&#34;&gt; Thank you for your comment.  &lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;div class=&#34;center&#34;&gt;
+&lt;form class=&#34;input&#34; action=&#34;/&#34;&gt;
+    &lt;button type=&#34;submit&#34;&gt;Return to Site&lt;/button&gt;
+&lt;/form&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://lisabrzozowski.com/section/contact/</link>
+      <pubDate>Thu, 09 Apr 2015 03:33:06 -0700</pubDate>
+      
+      <guid>http://lisabrzozowski.com/section/contact/</guid>
+      <description>&lt;p&gt;&lt;style&gt; html { font-size: 13px; } &lt;/style&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;http://lisabrzozowski.com/js/form.js&#34;&gt;var submitted=false;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://lisabrzozowski.com/img/1371167248.jpg&#34; alt=&#34;banner image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe name=&#34;hidden_iframe&#34; id=&#34;hidden_iframe&#34; style=&#34;display:none;&#34;
+onload=&#34;if(submitted) {window.location=&#39;/section/submission-complete&#39;;}&#34;&gt;&lt;/iframe&gt;
+&lt;div class=&#34;contact-form&#34;&gt;
+    &lt;div class=&#34;ss-form-container&#34;&gt;
+        &lt;div class=&#34;ss-header-image-container&#34;&gt;
+          &lt;div class=&#34;ss-header-image-image&#34;&gt;
+            &lt;div class=&#34;ss-header-image-sizer&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ss-top-of-page&#34;&gt;
+          &lt;div class=&#34;ss-form-heading&#34;&gt;
+            &lt;h1 class=&#34;ss-form-title&#34; dir=&#34;ltr&#34;&gt;Contact Lisa Brzozowski&lt;/h1&gt;
+            &lt;div class=&#34;ss-required-asterisk&#34; aria-hidden=&#34;true&#34;&gt;
+              * Required
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ss-form&#34;&gt;
+          &lt;form action=&#34;https://docs.google.com/forms/d/1AfRA5uV6wAjtaL0BWSdWjKR_Qr1Nq2mAP4lRHyXWXeU/formResponse?embedded=true&#34; method=&#34;post&#34; id=&#34;ss-form&#34; target=&#34;hidden_iframe&#34; onsubmit=&#34;submitted=true;&#34; name=&#34;ss-form&#34;&gt;
+            &lt;div role=&#34;list&#34; class=&#34;ss-question-list&#34; style=&#34;margin-left: 2em; padding-left: 0&#34;&gt;
+              &lt;div class=&#34;ss-form-question errorbox-good&#34; role=&#34;listitem&#34;&gt;
+                &lt;div dir=&#34;ltr&#34; class=&#34;ss-item ss-item-required ss-text&#34;&gt;
+                  &lt;div class=&#34;ss-form-entry&#34;&gt;
+                    &lt;div class=&#34;ss-q-title&#34;&gt;
+                      &lt;label class=&#34;ss-q-item-label&#34; for=&#34;entry_982837995&#34;&gt;Name &lt;span class=&#34;ss-required-asterisk&#34; aria-hidden=&#34;true&#34;&gt;&lt;em&gt;&lt;/span&gt;&lt;/label&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&#34;ss-q-help ss-secondary-text&#34; dir=&#34;ltr&#34;&gt;
+                      First Last
+                    &lt;/div&gt;
+                    &lt;input type=&#34;text&#34; name=&#34;entry.982837995&#34; value=&#34;&#34; class=&#34;ss-q-short&#34; id=&#34;entry_982837995&#34; dir=&#34;auto&#34; aria-label=&#34;Name First Last&#34; aria-required=&#34;true&#34; required=&#34;&#34; title=&#34;&#34;&gt;
+                    &lt;div class=&#34;error-message&#34; id=&#34;82583700_errorMessage&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;required-message&#34;&gt;
+                      This is a required question
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&#34;ss-form-question errorbox-good&#34; role=&#34;listitem&#34;&gt;
+                &lt;div dir=&#34;ltr&#34; class=&#34;ss-item ss-item-required ss-text&#34;&gt;
+                  &lt;div class=&#34;ss-form-entry&#34;&gt;
+                    &lt;div class=&#34;ss-q-title&#34;&gt;
+                      &lt;label class=&#34;ss-q-item-label&#34; for=&#34;entry_1948285426&#34;&gt;Email &lt;span class=&#34;ss-required-asterisk&#34; aria-hidden=&#34;true&#34;&gt;&lt;/em&gt;&lt;/span&gt;&lt;/label&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&#34;ss-q-help ss-secondary-text&#34; dir=&#34;ltr&#34;&gt;&lt;/div&gt;
+                    &lt;input type=&#34;text&#34; name=&#34;entry.1948285426&#34; value=&#34;&#34; class=&#34;ss-q-short&#34; id=&#34;entry_1948285426&#34; dir=&#34;auto&#34; aria-label=&#34;Email&#34; aria-required=&#34;true&#34; required=&#34;&#34; title=&#34;&#34;&gt;
+                    &lt;div class=&#34;error-message&#34; id=&#34;1694519741_errorMessage&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;required-message&#34;&gt;
+                      This is a required question
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&#34;ss-form-question errorbox-good&#34; role=&#34;listitem&#34;&gt;
+                &lt;div dir=&#34;ltr&#34; class=&#34;ss-item ss-item-required ss-paragraph-text&#34;&gt;
+                  &lt;div class=&#34;ss-form-entry&#34;&gt;
+                    &lt;div class=&#34;ss-q-title&#34;&gt;
+                      &lt;label class=&#34;ss-q-item-label&#34; for=&#34;entry_1309846754&#34;&gt;Comment &lt;span class=&#34;ss-required-asterisk&#34; aria-hidden=&#34;true&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&#34;ss-q-help ss-secondary-text&#34; dir=&#34;ltr&#34;&gt;&lt;/div&gt;
+                    &lt;textarea name=&#34;entry.1309846754&#34; rows=&#34;8&#34; cols=&#34;0&#34; class=&#34;ss-q-long&#34; id=&#34;entry_1309846754&#34; dir=&#34;auto&#34; aria-label=&#34;Comment&#34; aria-required=&#34;true&#34; required=&#34;&#34;&gt;&lt;/textarea&gt;
+                    &lt;div class=&#34;error-message&#34; id=&#34;197548260_errorMessage&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;required-message&#34;&gt;
+                      This is a required question
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;input type=&#34;hidden&#34; name=&#34;draftResponse&#34; value=&#34;[,,&amp;quot;7253710901475943902&amp;quot;] &#34;&gt;
+              &lt;input type=&#34;hidden&#34; name=&#34;pageHistory&#34; value=&#34;0&#34;&gt;
+              &lt;input type=&#34;hidden&#34; name=&#34;fbzx&#34; value=&#34;7253710901475943902&#34;&gt;
+              &lt;div class=&#34;ss-item ss-navigate&#34;&gt;
+                &lt;table id=&#34;navigation-table&#34;&gt;
+                  &lt;tbody&gt;
+                    &lt;tr&gt;
+                      &lt;td class=&#34;ss-form-entry goog-inline-block&#34; id=&#34;navigation-buttons&#34; dir=&#34;ltr&#34;&gt;
+                      &lt;input type=&#34;submit&#34; name=&#34;submit&#34; value=&#34;Submit&#34; id=&#34;ss-submit&#34; class=&#34;jfk-button jfk-button-action&#34;&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                  &lt;/tbody&gt;
+                &lt;/table&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/form&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dresses</title>
+      <link>http://lisabrzozowski.com/section/dresses/</link>
+      <pubDate>Thu, 09 Apr 2015 03:33:03 -0700</pubDate>
+      
+      <guid>http://lisabrzozowski.com/section/dresses/</guid>
+      <description>
+
+&lt;h1 id=&#34;dresses-in-sculpture:0ee1d489be51edc0dcd1fb4fa99d6d49&#34;&gt;Dresses in Sculpture&lt;/h1&gt;
+
+&lt;div class=&#34;center-contents img-inline&#34;&gt;
+        
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://lisabrzozowski.com/img/5689613.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Painted Wood 3&amp;#39;x4&amp;#39;&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;clay:0ee1d489be51edc0dcd1fb4fa99d6d49&#34;&gt;Clay&lt;/h2&gt;
+
+&lt;div class=&#34;center img-inline thumbnails&#34;&gt;
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_2957172_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_2957172.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_545781_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_545781.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_2296694_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_2296694.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_4826868_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_4826868.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;center img-inline thumbnails&#34;&gt;
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_7248442_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_7248442.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_5749247_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_5749247.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_9429581_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_9429581.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_7888757_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_7888757.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;center img-inline thumbnails&#34;&gt;
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_6333825_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_6333825.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_8658837_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_8658837.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_9286092_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_9286092.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/_1245177_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/_1245177.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Figures</title>
+      <link>http://lisabrzozowski.com/section/figures/</link>
+      <pubDate>Thu, 09 Apr 2015 03:32:58 -0700</pubDate>
+      
+      <guid>http://lisabrzozowski.com/section/figures/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://lisabrzozowski.com/img/1371167248.jpg&#34; alt=&#34;banner image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&#34;figures-in-sculpture:f9d9895b78b9658a5f2c83316842694b&#34;&gt;Figures in Sculpture&lt;/h1&gt;
+
+&lt;div class=&#34;center img-inline figures&#34; style=&#34;width:100%&#34;&gt;
+        
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://lisabrzozowski.com/img/6464725_orig.jpg&#34; width=&#34;360&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+        
+&lt;figure class=&#34;figure-top&#34;&gt;
+    
+        &lt;img src=&#34;http://lisabrzozowski.com/img/2947745.jpg&#34; width=&#34;520&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Sculpture Garden on the Hudson River&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;wood:f9d9895b78b9658a5f2c83316842694b&#34;&gt;Wood&lt;/h2&gt;
+
+&lt;div class=&#34;center img-inline thumbnails&#34;&gt;
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/5738453_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/5738453.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/1927143_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/1927143.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/823248_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/823248.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/6624719_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/6624719.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;center img-inline thumbnails&#34;&gt;
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/3855625_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/3855625.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/3454552_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/3454552.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/7460145_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/7460145.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/9484800_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/9484800.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;center img-inline thumbnails&#34;&gt;
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/6024833_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/6024833.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/8763556_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/8763556.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/9350535_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/9350535.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/3142612_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/3142612.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;metal:f9d9895b78b9658a5f2c83316842694b&#34;&gt;Metal&lt;/h2&gt;
+
+&lt;div class=&#34;center img-inline thumbnails&#34;&gt;
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/8272699_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/8272699.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/8579543_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/8579543.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/9768007_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/9768007.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/6040858_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/6040858.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;center img-inline thumbnails&#34;&gt;
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/9675502_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/9675502.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/9316269_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/9316269.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/4510053_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/4510053.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;clay:f9d9895b78b9658a5f2c83316842694b&#34;&gt;Clay&lt;/h2&gt;
+
+&lt;div class=&#34;center img-inline thumbnails&#34;&gt;
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/996591_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/996591.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/8712401_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/8712401.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/953014_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/953014.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/8856744_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/8856744.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;center img-inline thumbnails&#34;&gt;
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/9673330_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/9673330.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/4986050_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/4986050.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/4443769_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/4443769.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/9973804_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/9973804.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;center img-inline thumbnails&#34;&gt;
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/6265288_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/6265288.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/1238099_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/1238099.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/652696_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/652696.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+    
+&lt;figure &gt;
+    &lt;a href=&#34;http://lisabrzozowski.com/img/6339868_orig.jpg&#34;&gt;
+        &lt;img src=&#34;http://lisabrzozowski.com/img/6339868.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
