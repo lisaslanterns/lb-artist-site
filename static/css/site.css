@@ -1,0 +1,234 @@
+body {
+    background: #222 url(/img/dark_wall.png);
+    color: #cccccc;
+    font-family: "Open Sans",arial,sans-serif;
+    font-size: x-large;
+    line-height: 26px;
+    /*line-height: 24px;*/
+    font-weight: 400;
+    width: 960px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h1 {
+    margin-top: 40px;
+    text-align: center;
+    color: #c0c0c0;
+    font-weight: bold;
+    line-height: 1.2;
+    letter-spacing: -1px;
+    font-size: 48px;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.navbar {
+    margin-top: 70px;
+    margin-bottom: 10px;
+    border: none;
+}
+
+.site-title {
+    font-family: "Source Sans Pro";
+    font-size: 40px;
+    color: #CCCCCC;
+    font-weight: 300;
+}
+
+a {
+    color: #aaa;
+}
+
+img  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgba(255, 255, 255, 0.13);
+    padding: 3px;
+}
+
+.menus-text {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+div {
+    display: block;
+}
+
+.img-inline {
+    display: inline-block;
+}
+
+.img-inline figure {
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.center-contents {
+    text-align: center;
+    width: 100%;
+}
+
+.content {
+    margin-top: 80px;
+}
+
+.bio-statement {
+    position: relative;
+    margin-top: 100px;
+    float: left;
+    width: 100%;
+}
+
+.bio-statement p {
+    font-size: large;
+    color: #ffffff;
+    display: inline-block;
+    bottom: 0;
+}
+
+.bio-statement img {
+    float: left;
+    margin: 5px 10px 10px 0px ;
+    border-width: 0;
+}
+
+.figure-top {
+    position: relative;
+    vertical-align: top;
+}
+
+.figures figure {
+    margin: 10px 15px;
+}
+
+.thumbnails {
+    width: 100%;
+    display: table;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.thumbnails figure {
+    margin: auto;
+    display: table-cell;
+}
+.thumbnails img {
+    max-width: 320px;
+    max-height: 180px;
+    height: auto;
+}
+
+.ss-q-title {
+    font-family: "Roboto";
+    color: rgb(180,180,180);
+    font-weight: 700;
+    font-size: 1.080rem;
+    font-style: normal;
+}
+
+.ss-q-help, .ss-q-time-hint {
+    font-family: "Roboto";
+    color: rgb(140,140,140);
+    font-weight: 400;
+    font-size: 1.000rem;
+    font-style: normal;
+}
+
+
+.error-message, .required-message, .ss-required-asterisk {
+    font-family: "Roboto";
+    color: rgb(196,59,29);
+    font-weight: 400;
+    font-size: 1.000rem;
+    font-style: normal;
+}
+
+.ss-choice-label, .video-secondary-text, .ss-gridrow-leftlabel, .ss-gridnumber, .ss-scalenumber, .ss-leftlabel, .ss-rightlabel {
+    font-family: "Roboto";
+    color: rgb(80,80,80);
+    font-weight: 400;
+    font-size: 1.000rem;
+    font-style: normal;
+}
+
+.ss-form-title {
+    font-family: "Roboto";
+    color: rgb(180,180,180);
+    font-weight: 400;
+    font-size: 2.460rem;
+    font-style: normal;
+}
+
+.ss-q-short {
+    width: 40rem;
+}
+
+.ss-q-long {
+}
+
+.ss-confirmation {
+    font-family: "Roboto";
+    color: rgb(80,80,80);
+    font-weight: 400;
+    font-size: 2.460rem;
+    font-style: normal;
+}
+
+.ss-page-title, .ss-section-title {
+    font-family: "Roboto";
+    color: rgb(80,80,80);
+    font-weight: 400;
+    font-size: 1.845rem;
+    font-style: normal;
+}
+
+.ss-form-desc, .ss-page-description, .ss-section-description {
+    font-family: "Roboto";
+    color: rgb(140,140,140);
+    font-weight: 400;
+    font-size: 1.080rem;
+    font-style: normal;
+}
+input[type='text'], input:not([type]), textarea {
+    font-size: 1.000rem;
+}
+
+.contact-form {
+    font-family: "Roboto";
+    color: rgb(119,119,119);
+    font-weight: 400;
+    font-size: 1.080rem;
+    font-style: normal;
+}
+
+label {
+    display: inline-block;
+}
+
+input[type=text], textarea {
+    display: block;
+    width: 40rem;
+}
+
+.footer {
+    margin: 150px auto 80px auto;
+    text-align: center;
+    float:right;
+}
