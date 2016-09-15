@@ -19,7 +19,7 @@
 
 &lt;p&gt;&lt;style&gt;button { margin-left: auto; margin-right:auto; background: #808080; color: #ccc; padding: 15px; }&lt;/style&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;submission-success:d9bc52b161805e114bde241018fa7d69&#34;&gt;Submission Success&lt;/h1&gt;
+&lt;h1 id=&#34;submission-success&#34;&gt;Submission Success&lt;/h1&gt;
 
 &lt;p&gt;&lt;p class=&#34;center&#34;&gt; Thank you for your comment.  &lt;/p&gt;
 &lt;br&gt;
@@ -42,8 +42,7 @@
       <description>&lt;p&gt;&lt;style&gt; html { font-size: 13px; } &lt;/style&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;http://lisabrzozowski.com/js/form.js&#34;&gt;var submitted=false;&lt;/script&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://lisabrzozowski.com/img/1371167248.jpg&#34; alt=&#34;banner image&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://lisabrzozowski.com/img/unfinished_lanterns_small-slicetops.jpg&#34; alt=&#34;banner image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe name=&#34;hidden_iframe&#34; id=&#34;hidden_iframe&#34; style=&#34;display:none;&#34;
 onload=&#34;if(submitted) {window.location=&#39;/section/submission-complete&#39;;}&#34;&gt;&lt;/iframe&gt;
@@ -147,7 +146,7 @@ onload=&#34;if(submitted) {window.location=&#39;/section/submission-complete&#39
       <guid>http://lisabrzozowski.com/section/dresses/</guid>
       <description>
 
-&lt;h1 id=&#34;dresses-in-sculpture:0ee1d489be51edc0dcd1fb4fa99d6d49&#34;&gt;Dresses in Sculpture&lt;/h1&gt;
+&lt;h1 id=&#34;dresses-in-sculpture&#34;&gt;Dresses in Sculpture&lt;/h1&gt;
 
 &lt;div class=&#34;center-contents img-inline&#34;&gt;
         
@@ -165,7 +164,7 @@ onload=&#34;if(submitted) {window.location=&#39;/section/submission-complete&#39
 
 &lt;/div&gt;
 
-&lt;h2 id=&#34;clay:0ee1d489be51edc0dcd1fb4fa99d6d49&#34;&gt;Clay&lt;/h2&gt;
+&lt;h2 id=&#34;clay&#34;&gt;Clay&lt;/h2&gt;
 
 &lt;div class=&#34;center img-inline thumbnails&#34;&gt;
     
@@ -280,10 +279,9 @@ onload=&#34;if(submitted) {window.location=&#39;/section/submission-complete&#39
       <guid>http://lisabrzozowski.com/section/figures/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://lisabrzozowski.com/img/1371167248.jpg&#34; alt=&#34;banner image&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://lisabrzozowski.com/img/1371167248.jpg&#34; alt=&#34;banner image&#34; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;figures-in-sculpture:f9d9895b78b9658a5f2c83316842694b&#34;&gt;Figures in Sculpture&lt;/h1&gt;
+&lt;h1 id=&#34;figures-in-sculpture&#34;&gt;Figures in Sculpture&lt;/h1&gt;
 
 &lt;div class=&#34;center img-inline figures&#34; style=&#34;width:100%&#34;&gt;
         
@@ -309,7 +307,7 @@ onload=&#34;if(submitted) {window.location=&#39;/section/submission-complete&#39
 
 &lt;/div&gt;
 
-&lt;h2 id=&#34;wood:f9d9895b78b9658a5f2c83316842694b&#34;&gt;Wood&lt;/h2&gt;
+&lt;h2 id=&#34;wood&#34;&gt;Wood&lt;/h2&gt;
 
 &lt;div class=&#34;center img-inline thumbnails&#34;&gt;
     
@@ -414,7 +412,7 @@ onload=&#34;if(submitted) {window.location=&#39;/section/submission-complete&#39
 
 &lt;/div&gt;
 
-&lt;h2 id=&#34;metal:f9d9895b78b9658a5f2c83316842694b&#34;&gt;Metal&lt;/h2&gt;
+&lt;h2 id=&#34;metal&#34;&gt;Metal&lt;/h2&gt;
 
 &lt;div class=&#34;center img-inline thumbnails&#34;&gt;
     
@@ -477,7 +475,7 @@ onload=&#34;if(submitted) {window.location=&#39;/section/submission-complete&#39
 
 &lt;/div&gt;
 
-&lt;h2 id=&#34;clay:f9d9895b78b9658a5f2c83316842694b&#34;&gt;Clay&lt;/h2&gt;
+&lt;h2 id=&#34;clay&#34;&gt;Clay&lt;/h2&gt;
 
 &lt;div class=&#34;center img-inline thumbnails&#34;&gt;
     

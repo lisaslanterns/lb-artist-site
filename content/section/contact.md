@@ -9,7 +9,7 @@ title = "Contact"
 <style> html { font-size: 13px; } </style>
 <script type="text/javascript" src="/js/form.js">var submitted=false;</script>
 
-![banner image](/img/unfinished_lanterns_small-37.jpg)
+![banner image](/img/unfinished_lanterns_small-slicetops.jpg)
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
 onload="if(submitted) {window.location='/section/submission-complete';}"></iframe>
