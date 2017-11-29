@@ -24,6 +24,10 @@ fields:
   label: Products
   name: products
   description: List of product images for display
+  default:
+  - "/img/Green_Lantern_12_x11_x11.jpg"
+  - "/img/Ken's_Lantern_16_x9_x9.jpg"
+  - "/img/Tall_Indigo_Lantern_Stoneware_21_x8_x8.jpg"
 - type: field_group_list
   label: row group with 3 items
   hidden: false
