@@ -16,6 +16,6 @@ undefined = "/img/Copper_Penny_Lantern_Stoneware_19_x8_x8.jpg"
 +++
 Testing 1
 
-Is this working? <b>yes</b>
+Is this working? **yes**
 
 ![](/img/Blue_Wave_Lantern_Stoneware_17_x14_x14.jpg)
