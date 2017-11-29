@@ -16,3 +16,25 @@ fields:
   type: list
   hidden: false
   default: []
+- type: file
+  default: "/img/unfinished_lanterns_small-34.jpg"
+- type: image_gallery
+  label: Products
+  name: products
+  description: List of product images for display
+- type: field_group_list
+  label: row group with 3 items
+  hidden: false
+  fields:
+  - type: file
+  - type: file
+  - type: file
+  name: row_group_with_3_items
+  description: Row with three items
+- type: field_group_list
+  name: galary_rows
+  label: galary rows
+  fields:
+  - type: image_gallery
+    name: multi_item_gallary
+    label: Multi item gallary
