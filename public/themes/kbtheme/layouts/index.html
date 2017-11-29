@@ -1,8 +1,0 @@
-{{ partial "header.html" . }}
-{{ partial "navmenu.html" . }}
-{{ range .Data.Pages }}
-    {{if eq .Type "index" }}
-        {{.Content}}
-    {{end}}
-{{ end }}
-{{ partial "footer.html" . }}
