@@ -1,4 +1,6 @@
 ---
+pages:
+- index2.md
 hide_body: false
 fields:
 - name: Description
